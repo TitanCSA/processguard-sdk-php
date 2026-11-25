@@ -1,5 +1,11 @@
 # ProcessGuard-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use ProcessGuard-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/processguard-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
